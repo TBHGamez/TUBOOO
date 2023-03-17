@@ -1,3 +1,2 @@
-pickle
+pickles
 scikit-learn
-plotly
