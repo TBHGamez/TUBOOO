@@ -12,4 +12,4 @@ if st.button('Predict'):
     res = model.predict(x)
     st.caption('Revenue Prediction')
     kq = res[0]
-    st.success(f{kq})
+    st.success(f'{kq}')
